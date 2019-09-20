@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+follow these step to install it locally
 
-Things you may want to cover:
+* install docker & docker-compose
 
-* Ruby version
+* clone the repo
 
-* System dependencies
+* run docker-compose build
 
-* Configuration
+* docker-compose up
 
-* Database creation
+* go to localhost:3000 (you can change the port in docker-compose file)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* happy coding
