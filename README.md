@@ -1,6 +1,6 @@
 # README
 
-follow these step to install it locally
+follow these steps to install it locally
 
 * install docker & docker-compose
 
